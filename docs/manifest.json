@@ -1,7 +1,7 @@
 {
-    "name": "Buscador de POIs Brasil (OSM)",
-    "short_name": "POIs Brasil",
-    "description": "Encontre Museus, Parques e Lojas próximos usando Geolocalização e OpenStreetMap.",
+    "name": "Buscador de Serviços Públicos (OSM)",
+    "short_name": "Serviços Próximos",
+    "description": "Encontre serviços públicos e essenciais próximos, como hospitais, polícia e caixas eletrônicos, usando Geolocalização.",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
